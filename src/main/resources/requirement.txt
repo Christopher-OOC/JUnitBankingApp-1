@@ -1,0 +1,2 @@
+1. For regular account, user must be >= 18
+2. If age < 18, user can only deposit < 50,000
